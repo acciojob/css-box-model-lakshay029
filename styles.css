@@ -1,9 +1,5 @@
-.margin{
-	border:2px solid black;
-	width:475px;
-}
 
-.box{
+#box{
 	width:300px;
 	background-color:lightblue;
 	border:15px solid blue;
