@@ -1,3 +1,8 @@
+.margin{
+	border:2px solid black;
+	width:475px;
+}
+
 .box{
 	width:300px;
 	background-color:lightblue;
